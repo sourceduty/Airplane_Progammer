@@ -20,6 +20,10 @@ Furthermore, this GPT is equipped to guide users from the initial concept phase 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Airplane Design](https://github.com/sourceduty/Airplane_Design)
+<br>
+[Ion Simulator](https://github.com/sourceduty/Ion_Simulator)
+<br>
+[Physics Experiments](https://github.com/sourceduty/Physics_Experiments)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
