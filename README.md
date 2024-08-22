@@ -24,6 +24,12 @@ Furthermore, this GPT is equipped to guide users from the initial concept phase 
 [Ion Simulator](https://github.com/sourceduty/Ion_Simulator)
 <br>
 [Physics Experiments](https://github.com/sourceduty/Physics_Experiments)
+<br>
+[Airborne Car Deployment](https://github.com/sourceduty/Airborne_Car_Deployment)
+<br>
+[Air Vortex Blower](https://github.com/sourceduty/Air_Vortex_Blower)
+<br>
+[Airplane Contrails](https://github.com/sourceduty/Airplane_Contrails)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
