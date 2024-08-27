@@ -112,6 +112,10 @@ Military aircraft, including fighters, bombers, and unmanned aerial vehicles (UA
 
 #
 
+![Chrome Helicopter](https://github.com/user-attachments/assets/020ad72f-23f9-44ac-ba5d-c159b771dc04)
+
+#
+
 ![Airport](https://github.com/user-attachments/assets/d44a1ff1-f4e8-4480-bab6-2c65120f63a9)
 
 #
