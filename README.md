@@ -82,6 +82,35 @@ Military aircraft, including fighters, bombers, and unmanned aerial vehicles (UA
 49. Dassault Rafale
 50. Boeing KC-135 Stratotanker
 
+............................................................................
+
+### Top 10 Alternative Aircraft
+1. Icon A5 (Amphibious Light Sport Aircraft)
+2. Pipistrel Velis Electro (Electric Aircraft)
+3. Joby S4 (Electric VTOL)
+4. Pipistrel Panthera (Single-engine High-performance Aircraft)
+5. Tecnam P2012 Traveller (Twin-engine Piston Aircraft)
+6. Evektor EV-55 Outback (Utility Aircraft)
+7. Diamond HK36 Super Dimona (Motor Glider)
+8. Airbus A220 (Narrow-body Airliner)
+9. Daher TBM 940 (Single-engine Turboprop)
+10. Lockwood Aircam (Twin-engine Light Aircraft)
+
+............................................................................
+
+### Top 10 Helicopters
+1. Bell 206 JetRanger
+2. Robinson R44 Raven II
+3. Sikorsky UH-60 Black Hawk
+4. Airbus H145
+5. Bell 407
+6. Robinson R66
+7. Boeing AH-64 Apache
+8. Leonardo AW139
+9. Sikorsky CH-53E Super Stallion
+10. Airbus H225 Super Puma
+
+
 #
 
 ![Airport](https://github.com/user-attachments/assets/d44a1ff1-f4e8-4480-bab6-2c65120f63a9)
