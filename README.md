@@ -84,7 +84,7 @@ Military aircraft, including fighters, bombers, and unmanned aerial vehicles (UA
 
 ............................................................................
 
-### Top 10 Alternative Aircraft
+### Alternative Aircraft
 1. Icon A5 (Amphibious Light Sport Aircraft)
 2. Pipistrel Velis Electro (Electric Aircraft)
 3. Joby S4 (Electric VTOL)
@@ -98,7 +98,7 @@ Military aircraft, including fighters, bombers, and unmanned aerial vehicles (UA
 
 ............................................................................
 
-### Top 10 Helicopters
+### Helicopters
 1. Bell 206 JetRanger
 2. Robinson R44 Raven II
 3. Sikorsky UH-60 Black Hawk
@@ -109,7 +109,6 @@ Military aircraft, including fighters, bombers, and unmanned aerial vehicles (UA
 8. Leonardo AW139
 9. Sikorsky CH-53E Super Stallion
 10. Airbus H225 Super Puma
-
 
 #
 
