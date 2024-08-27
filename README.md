@@ -11,6 +11,15 @@ In addition to offering technical support, this GPT is also designed to troubles
 Furthermore, this GPT is equipped to guide users from the initial concept phase through to the implementation of aircraft systems. It helps with everything from preliminary design considerations to the final stages of testing and validation. By providing clear explanations and recommendations, this GPT aims to streamline the development process, reduce the potential for errors, and ultimately contribute to the creation of safe and efficient aircraft systems.
 
 #
+### Supported Aircraft
+
+This custom GPT is equipped to work on a wide range of aircraft types, spanning from small general aviation aircraft to large commercial airliners and military aircraft. For general aviation, it can provide insights into avionics integration, flight control system design, and software development for aircraft such as single-engine propeller planes or light jets. These aircraft often have simpler systems, but still require precision in design and programming to ensure safety and performance.
+
+For commercial airliners, which are more complex, this GPT can assist with advanced avionics systems, including autopilot, navigation, communication, and aircraft monitoring systems. It can help with the development of sophisticated flight management systems (FMS) that are critical for efficient and safe operation over long distances. The expertise extends to understanding and developing systems for large jet aircraft, which involve complex interconnections between various onboard systems and subsystems.
+
+Military aircraft, including fighters, bombers, and unmanned aerial vehicles (UAVs), are also within the scope of this GPT. These aircraft demand highly specialized systems that can handle rapid maneuvers, stealth capabilities, and advanced weapons systems. The GPT can assist in programming and developing flight control software, avionics, and mission systems tailored to the unique requirements of military operations. Its capabilities include guidance on system integration, reliability, and performance optimization under extreme conditions.
+
+#
 
 ![Airport](https://github.com/user-attachments/assets/d44a1ff1-f4e8-4480-bab6-2c65120f63a9)
 
